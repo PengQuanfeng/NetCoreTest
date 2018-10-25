@@ -1,0 +1,11 @@
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\obj\Debug\netcoreapp2.1\NetCoreTest.csprojAssemblyReference.cache
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\obj\Debug\netcoreapp2.1\NetCoreTest.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\obj\Debug\netcoreapp2.1\NetCoreTest.AssemblyInfoInputs.cache
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\obj\Debug\netcoreapp2.1\NetCoreTest.AssemblyInfo.cs
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\bin\Debug\netcoreapp2.1\NetCoreTest.deps.json
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\bin\Debug\netcoreapp2.1\NetCoreTest.runtimeconfig.json
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\bin\Debug\netcoreapp2.1\NetCoreTest.runtimeconfig.dev.json
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\bin\Debug\netcoreapp2.1\NetCoreTest.dll
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\bin\Debug\netcoreapp2.1\NetCoreTest.pdb
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\obj\Debug\netcoreapp2.1\NetCoreTest.dll
+E:\work\02 MyProject\NetCoreTest\NetCoreTest\obj\Debug\netcoreapp2.1\NetCoreTest.pdb

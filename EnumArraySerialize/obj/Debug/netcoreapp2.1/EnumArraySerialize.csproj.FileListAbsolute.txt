@@ -1,0 +1,11 @@
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\bin\Debug\netcoreapp2.1\EnumArraySerialize.deps.json
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\bin\Debug\netcoreapp2.1\EnumArraySerialize.runtimeconfig.json
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\bin\Debug\netcoreapp2.1\EnumArraySerialize.runtimeconfig.dev.json
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\bin\Debug\netcoreapp2.1\EnumArraySerialize.dll
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\bin\Debug\netcoreapp2.1\EnumArraySerialize.pdb
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\obj\Debug\netcoreapp2.1\EnumArraySerialize.csprojAssemblyReference.cache
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\obj\Debug\netcoreapp2.1\EnumArraySerialize.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\obj\Debug\netcoreapp2.1\EnumArraySerialize.AssemblyInfoInputs.cache
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\obj\Debug\netcoreapp2.1\EnumArraySerialize.AssemblyInfo.cs
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\obj\Debug\netcoreapp2.1\EnumArraySerialize.dll
+E:\work\02 MyProject\NetCoreTest\EnumArraySerialize\obj\Debug\netcoreapp2.1\EnumArraySerialize.pdb
