@@ -1,0 +1,11 @@
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\bin\Debug\netcoreapp2.1\JavaRResultTest.deps.json
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\bin\Debug\netcoreapp2.1\JavaRResultTest.runtimeconfig.json
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\bin\Debug\netcoreapp2.1\JavaRResultTest.runtimeconfig.dev.json
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\bin\Debug\netcoreapp2.1\JavaRResultTest.dll
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\bin\Debug\netcoreapp2.1\JavaRResultTest.pdb
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\obj\Debug\netcoreapp2.1\JavaRResultTest.csprojAssemblyReference.cache
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\obj\Debug\netcoreapp2.1\JavaRResultTest.csproj.CoreCompileInputs.cache
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\obj\Debug\netcoreapp2.1\JavaRResultTest.AssemblyInfoInputs.cache
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\obj\Debug\netcoreapp2.1\JavaRResultTest.AssemblyInfo.cs
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\obj\Debug\netcoreapp2.1\JavaRResultTest.dll
+E:\work\02 MyProject\NetCoreTest\JavaRResultTest\obj\Debug\netcoreapp2.1\JavaRResultTest.pdb
