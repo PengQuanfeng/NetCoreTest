@@ -30,8 +30,6 @@ namespace JavaRResultTest
                 }
                 catch (Exception)
                 {
-
-                    int test;
                 }
             }
         }
